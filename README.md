@@ -1,2 +1,9 @@
-# HR-Exec-Analysis
-A HR-related analysis project intended for both the Executive suite and HT department.
+# HR-Related Analysis for multiple departments
+
+## Project Overview
+
+### Techniques demonstrated
+
+### Insights
+
+## Personal Reflections
