@@ -15,9 +15,11 @@ This project involved delivering two dashboards and presentations, specifically 
 
 ### Techniques demonstrated
 
-* General SQL syntax
+* General SQL syntax (Queries found in this repo, [Employees.sql](https://github.com/LuMaJe/HR-Exec-Analysis/blob/main/employees.sql) and [Departments.sql](https://github.com/LuMaJe/HR-Exec-Analysis/blob/main/departments.sql)
 * CTE's and Joins
 * Static and Interactive Data visualization in Looker Studio
 * Adaptation of presentations for audiences of differing levels of data literacy.
 
 ## Personal Reflections
+
+I feel that I learned some valuable lessons with this project. The most impactful concept that I gained an appreciation for would be how something as small as delivering the presentation to two differing groups can have such an impact on the approach of the presentation. It forced me to think about how much time the audience(s) would have at their disposal to work through the material, leading to the static and interactive versions of the dashboards. Also, the language used and the level of complexity during the presentations would of course have to be modified. I really enjoy finding simple analogies to explain difficult concepts, yet I'm also a fan of the finer details, so this project was a great test for my ability to find the balance between simplicity and detail and their appropriate use-cases.
