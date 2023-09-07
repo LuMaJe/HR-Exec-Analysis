@@ -15,7 +15,7 @@ This project involved delivering two dashboards and presentations, specifically 
 
 ### Techniques demonstrated
 
-* General SQL syntax (Queries found in this repo, [Employees.sql](https://github.com/LuMaJe/HR-Exec-Analysis/blob/main/employees.sql) and [Departments.sql](https://github.com/LuMaJe/HR-Exec-Analysis/blob/main/departments.sql)
+* General SQL syntax (Queries found in this repo, [Employees.sql](https://github.com/LuMaJe/HR-Exec-Analysis/blob/main/employees.sql) and [Departments.sql](https://github.com/LuMaJe/HR-Exec-Analysis/blob/main/departments.sql) )
 * CTE's and Joins
 * Static and Interactive Data visualization in Looker Studio
 * Adaptation of presentations for audiences of differing levels of data literacy.
